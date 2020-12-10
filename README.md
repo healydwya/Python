@@ -1,2 +1,2 @@
 # Python
-learning Python with Codeducation 
+Codeducation club Python challenges 
